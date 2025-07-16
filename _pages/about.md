@@ -6,7 +6,7 @@ subtitle: <a href='https://plm.sw.siemens.com/en-US/simcenter/'>Siemens - Simcen
 
 profile:
   align: right
-  image: dirkhartmann.jpg
+  image: DirkHartmann.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
