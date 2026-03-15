@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
-description: "My research papers and articles."
+permalink: /talks/
+title: talks
+description: "A list of my invited talks, guest lectures, and conference presentations."
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <!-- _pages/publications.md -->
@@ -15,6 +15,6 @@ nav_order: 4
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f talks %}
 
 </div>

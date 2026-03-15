@@ -4,7 +4,7 @@ permalink: /videos/
 title: videos
 description: Collection of videos covering demonstrators, prototypes, talks, and other materials.
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <hr>

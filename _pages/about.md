@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a technology leader, industrial mathematician, and intrapreneur in the field of Simulation and Digital Twin. Currently, I hold the position of a Technical Fellow at Siemens Digital Industries Software, where I lead the Simcenter Technology Innovation Team. Additionally, I am a professor at TU Darmstadt, heading the chair of digital twins. Throughout my career at Siemens, I have taken on several leadership roles in research, innovation, and management, including leading a multi-million innovation program and technically leading the Simulation & Digital Twin field, managing a team of over 100 scientists at Siemens' central Research and Pre-Development Department.
+I am a technology leader, industrial mathematician, and intrapreneur in the field of Simulation and Digital Twin. Currently, I hold the position of a Distinguished Key Expert at Siemens Digital Industries Software, where I lead the Simcenter Technology Innovation Team. Additionally, I am a professor at TU Darmstadt, heading the chair of digital twins. Throughout my career at Siemens, I have taken on several leadership roles in research, innovation, and management, including leading a multi-million innovation program and technically leading the Simulation & Digital Twin field, managing a team of over 100 scientists at Siemens' central Research and Pre-Development Department.
 
 <blockquote>
   Enable anyone to predict all physical behaviors with a digital twin, to any required level of accuracy and within any required time.
@@ -31,6 +31,6 @@ I am a technology leader, industrial mathematician, and intrapreneur in the fiel
 
 My research focuses on efficient numerical methods for computational engineering and digital twins, with a strong focus on interactive and real-time applications. Recently, my interest has expanded to the field of scientific machine learning, combining machine learning techniques with classical numerical algorithms. Driven by the core belief that computational algorithms are the innovation backbone of the 21st century, I concentrate on developing innovative methods that allow us to boldly employ simulation where no one has used it before. Many of my innovations have resulted in novel products and have been recognized through various awards, such as the Werner-von-Siemens Top Innovator Award in 2019 and the Siemens Inventor of the Year Award in 2021. 
 
-If you are interested in working with me at Siemens Digital Industries Software or at TU Darmstadt, please check the <a href="https://myjob.io/4XL9VAX">Siemens Job Portal</a> or <a href="https://www.temf.tu-darmstadt.de/digitaltwin">my webpage at TU Darmstadt</a>.
+If you are interested in working with me at Siemens Digital Industries Software or at TU Darmstadt, please check the <a href="https://jobs.siemens.com/">Siemens Job Portal</a> or <a href="https://www.temf.tu-darmstadt.de/digitaltwin">my webpage at TU Darmstadt</a>.
 
 
