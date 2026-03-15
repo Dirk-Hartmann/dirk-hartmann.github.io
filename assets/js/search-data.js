@@ -32,10 +32,17 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "",
+          description: "My research papers and articles.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "A list of my invited talks, guest lectures, and conference presentations.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
           },
         },{id: "nav-videos",
           title: "videos",
@@ -49,6 +56,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-dirk-joined-the-tu-darmstadt-as-a-cooperation-professor-building-up-the-chair-of-digital-twins-mortar-board",
           title: 'Dirk joined the TU Darmstadt as a cooperation professor building up the chair...',
+          description: "",
+          section: "News",},{id: "news-added-a-section-on-talks-amp-amp-presentations-memo",
+          title: 'Added a section on  talks &amp;amp;amp; presentations. :memo:',
           description: "",
           section: "News",},{
         id: 'social-email',
