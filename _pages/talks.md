@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: "A list of my invited talks, guest lectures, and conference presentations."
+description: "A list of selected keynotes, presentations, talks, lectures, and webinars since 2020."
 nav: true
 nav_order: 5
 ---
