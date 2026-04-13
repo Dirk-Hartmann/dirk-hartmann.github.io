@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: "My research papers and articles."
+description: "My research papers and articles. [Last updated March 26]."
 nav: true
 nav_order: 4
 ---

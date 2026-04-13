@@ -63,6 +63,22 @@ nav_order: 6
 <hr>
 #### Talks
 <div class="row mt-3">
+    <!-- College de France, Maths-4-Innov-Action (Yvon Maday)  -->
+    <div class="col-md-12 mb-3">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="video-container">
+                    {% include video.liquid path="https://www.youtube.com/embed/ej2sh-bvSrc" class="img-fluid rounded z-depth-1" %}
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="caption-side">
+                    <h5>Digital Twins: From Hype to Industrial Reality ... and Why Applied Mathematics Plays a Key Role</h5>
+                    <p><a href="https://www.college-de-france.fr/fr/agenda/seminaire/maths-4-innov-action">Séminaire MAth-4-Innov-Action</a>, Collège de France, 2025.</p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- TU Darmstadt, E+E Diskurs  -->
     <div class="col-md-12 mb-3">
         <div class="row align-items-center">

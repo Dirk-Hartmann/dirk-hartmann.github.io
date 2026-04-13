@@ -31,6 +31,6 @@ I am a technology leader, industrial mathematician, and intrapreneur in the fiel
 
 My research focuses on efficient numerical methods for computational engineering and digital twins, with a strong focus on interactive and real-time applications. Recently, my interest has expanded to the field of scientific machine learning, combining machine learning techniques with classical numerical algorithms. Driven by the core belief that computational algorithms are the innovation backbone of the 21st century, I concentrate on developing innovative methods that allow us to boldly employ simulation where no one has used it before. Many of my innovations have resulted in novel products and have been recognized through various awards, such as the Werner-von-Siemens Top Innovator Award in 2019 and the Siemens Inventor of the Year Award in 2021. 
 
-If you are interested in working with me at Siemens Digital Industries Software or at TU Darmstadt, please check the <a href="https://jobs.siemens.com/">Siemens Job Portal</a> or <a href="https://www.temf.tu-darmstadt.de/digitaltwin">my webpage at TU Darmstadt</a>.
+If you are interested in working with me at Siemens Digital Industries Software or at TU Darmstadt, please check the <a href="https://jobs.siemens.com/">Siemens Job Portal</a> or <a href="https://www.temf.tu-darmstadt.de/digitaltwin">my webpage at TU Darmstadt</a>. If you are interested in writing a thesis with me, please also read the corresponding paragraph in the <a href="https://dirk-hartmann.github.io/teaching/">teaching</a> section.
 
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /talks/
 title: talks
-description: "A list of selected keynotes, presentations, talks, lectures, and webinars since 2020."
+description: "A list of selected keynotes, presentations, talks, lectures, and webinars since 2020 [Last updated March 26]."
 nav: true
 nav_order: 5
 ---
