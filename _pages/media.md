@@ -69,15 +69,14 @@ nav_order: 6
         <div class="row align-items-center">
             <div class="col-md-6">
                 <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">
-                    <div class="video-container">
-                        <img src="/assets/img/podcast02.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-                    </div>
+                    <img src="/assets/img/podcast02.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="width: 100%; max-height: 200px; object-fit: cover;">
                 </a>
             </div>
             <div class="col-md-6">
                 <div class="caption-side">
-                    <h5>Podcast Episode</h5>
-                    <p>Listen to the latest podcast episode on Buzzsprout. <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">Available here</a>.</p>
+                    <h5>CodexFutures: Exploring the Digital Twin Revolution</h5>
+                    <p>
+					<a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">Podcast</a> of the global team at TRIPTK with leaders from some of the world’s most dynamic and influential companies to explore what the future holds for how we live, learn, and play, 2026.</p>
                 </div>
             </div>
         </div>
@@ -87,15 +86,13 @@ nav_order: 6
         <div class="row align-items-center">
             <div class="col-md-6">
                 <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/" target="_blank">
-                    <div class="video-container">
-                        <img src="/assets/img/podcast01.jpg" class="img-fluid rounded z-depth-1" alt="Human-AI: Mind, Machines and the Gradient Descent" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-                    </div>
+                    <img src="/assets/img/podcast01.jpg" class="img-fluid rounded z-depth-1" alt="Human-AI: Mind, Machines and the Gradient Descent" style="width: 100%; max-height: 200px; object-fit: cover;">
                 </a>
-            </div>
+            </div>		
             <div class="col-md-6">
                 <div class="caption-side">
-                    <h5>Human-AI: Mind, Machines and the Gradient Descent</h5>
-                    <p>Dirk Hartmann on <em>Living in a Simulation</em> — a Siemens Blog podcast episode exploring human-AI interaction, 2020. <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/" target="_blank">Available here</a>.</p>
+                    <h5><em>Living in a Simulation</em></h5>
+                    <p>Human-AI: Mind, Machines and the Gradient Descent — <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/">a Siemens podcast episode </a> exploring human-AI interaction, 2020.</p>
                 </div>
             </div>
         </div>
