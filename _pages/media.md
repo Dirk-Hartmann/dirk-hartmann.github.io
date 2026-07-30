@@ -69,7 +69,7 @@ nav_order: 6
         <div class="row align-items-center">
             <div class="col-md-6">
                 <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">
-                    <img src="/assets/img/podcast02.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="width: 100%; max-height: 150px; object-fit: contain;">
+                    <img src="/assets/img/podcast02.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="max-height: 150px;">
                 </a>
             </div>
             <div class="col-md-6">
