@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /videos/
-title: videos
-description: Collection of videos covering demonstrators, prototypes, talks, and other materials.
+permalink: /media/
+title: media
+description: Collection of various media covering demonstrators, prototypes, talks, and other materials.
 nav: true
 nav_order: 6
 ---
@@ -59,6 +59,45 @@ nav_order: 6
         </div>
     </div>
 </div>
+
+
+<hr>
+#### Podcasts
+<div class="row mt-3">
+    <!-- Buzzsprout Podcast Episode -->
+    <div class="col-md-12 mb-3">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">
+                    <img src="/assets/img/podcast01.png" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1">
+                </a>
+            </div>
+            <div class="col-md-6">
+                <div class="caption-side">
+                    <h5>Podcast Episode</h5>
+                    <p>Listen to the latest podcast episode on Buzzsprout. <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">Available here</a>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Siemens Blog Podcast: Human-AI, Mind, Machines and the Gradient Descent -->
+    <div class="col-md-12 mb-3">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/" target="_blank">
+                    <img src="/assets/img/podcast02.png" class="img-fluid rounded z-depth-1" alt="Human-AI: Mind, Machines and the Gradient Descent">
+                </a>
+            </div>
+            <div class="col-md-6">
+                <div class="caption-side">
+                    <h5>Human-AI: Mind, Machines and the Gradient Descent</h5>
+                    <p>Dirk Hartmann on <em>Living in a Simulation</em> — a Siemens Blog podcast episode exploring human-AI interaction, 2020. <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/" target="_blank">Available here</a>.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 <hr>
 #### Talks
