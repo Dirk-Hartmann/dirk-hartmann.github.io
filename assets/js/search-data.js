@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/talks/";
           },
-        },{id: "nav-videos",
-          title: "videos",
-          description: "Collection of videos covering demonstrators, prototypes, talks, and other materials.",
+        },{id: "nav-media",
+          title: "media",
+          description: "Collection of various media covering demonstrators, prototypes, talks, and other materials.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/videos/";
+            window.location.href = "/media/";
           },
         },{id: "news-launched-the-art-of-the-possible-siemens-blog-which-journeys-through-the-future-of-predictive-engineering-technologies-memo",
           title: 'Launched The Art of the Possible Siemens blog which journeys through the future...',
