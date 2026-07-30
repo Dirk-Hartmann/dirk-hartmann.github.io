@@ -68,9 +68,11 @@ nav_order: 6
     <div class="col-md-12 mb-3">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <div class="video-container">
-                    <img src="/assets/img/podcast01.png" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-                </div>
+                <a href="https://www.buzzsprout.com/2597530/episodes/19473853" target="_blank">
+                    <div class="video-container">
+                        <img src="/assets/img/podcast02.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                </a>
             </div>
             <div class="col-md-6">
                 <div class="caption-side">
@@ -84,9 +86,11 @@ nav_order: 6
     <div class="col-md-12 mb-3">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <div class="video-container">
-                    <img src="/assets/img/podcast02.png" class="img-fluid rounded z-depth-1" alt="Human-AI: Mind, Machines and the Gradient Descent" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
-                </div>
+                <a href="https://blog.siemens.com/2020/08/human-ai-mind-machines-and-the-gradient-descent-dirk-hartmann-living-in-a-simulation/" target="_blank">
+                    <div class="video-container">
+                        <img src="/assets/img/podcast01.jpg" class="img-fluid rounded z-depth-1" alt="Human-AI: Mind, Machines and the Gradient Descent" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+                    </div>
+                </a>
             </div>
             <div class="col-md-6">
                 <div class="caption-side">
@@ -225,22 +229,23 @@ nav_order: 6
 #### Interviews
 <div class="mt-3">
     <ul>
-        <!-- SIAM Career Brochure -->
+        <!-- TU Darmstadt -->
         <li class="mb-2">
-            <a href="https://www.siam.org/programs-initiatives/professional-development/career-resources/careers-in-applied-mathematics/careers-brochure/dirk-hartmann" target="_blank"><strong>SIAM Career Brochure</strong></a> (2022)
+            <a href="https://www.etit.tu-darmstadt.de/fachbereich/etit_newsdetails_280832.en.jsp">New at TU Darmstadt</a> (2025)
         </li>
         <!-- ECMI Annual Report -->
         <li class="mb-2">
-            <a href="https://ecmiindmath.org/wp-content/uploads/2026/03/ecmiannrep_July24.pdf#page=18" target="_blank"><strong>Featured People in ECMI Report</strong></a> (2024)
-        </li>
-        <!-- TU Darmstadt -->
-        <li class="mb-2">
-            <a href="https://www.etit.tu-darmstadt.de/fachbereich/etit_newsdetails_280832.en.jsp" target="_blank"><strong>New at TU Darmstadt</strong></a> (2025)
+            <a href="https://ecmiindmath.org/wp-content/uploads/2026/03/ecmiannrep_July24.pdf#page=18">Featured People in ECMI Report</a> (2024)
         </li>
         <!-- Springer Book -->
         <li class="mb-2">
-            <a href="https://link.springer.com/book/10.1007/978-3-031-59770-1" target="_blank"><strong>From Emerging Technologies to Business Opportunities — Interviews with Academics and Business Experts</strong></a> (2024)
+            <a href="https://link.springer.com/book/10.1007/978-3-031-59770-1">From Emerging Technologies to Business Opportunities — Interviews with Academics and Business Experts</a> (2024)
         </li>
+        <!-- SIAM Career Brochure -->		
+        <li class="mb-2">
+            <a href="https://www.siam.org/programs-initiatives/professional-development/career-resources/careers-in-applied-mathematics/careers-brochure/dirk-hartmann">SIAM Career Brochure</a> (2022)
+        </li>
+		
     </ul>
 </div>
 
