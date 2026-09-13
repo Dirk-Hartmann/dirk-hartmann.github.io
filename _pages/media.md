@@ -81,6 +81,25 @@ nav_order: 6
             </div>
         </div>
     </div>
+    <div class="row mt-3">
+    <!-- BAI-powered simulation: a new era for industrial engineering- episode 8 of IM and AI podcast -->
+    <div class="col-md-12 mb-3">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <a href="https://blogs.sw.siemens.com/podcasts/digital-transformation/ai-powered-simulation-a-new-era-for-industrial-engineering-episode-8-of-im-and-ai-podcast/" target="_blank">
+                    <img src="/assets/img/podcast03.jpg" class="img-fluid rounded z-depth-1" alt="Podcast Episode 1" style="max-height: 150px;">
+                </a>
+            </div>
+            <div class="col-md-6">
+                <div class="caption-side">
+                    <h5>CAI-powered simulation: a new era for industrial engineering</h5>
+                    <p>
+					<a href="https://blogs.sw.siemens.com/podcasts/digital-transformation/ai-powered-simulation-a-new-era-for-industrial-engineering-episode-8-of-im-and-ai-podcast/" target="_blank">Episode 8</a>
+					and <a href="https://blogs.sw.siemens.com/podcasts/digital-transformation/how-ai-and-real%e2%80%91world-data-are-transforming-industrial-design-episode-9-of-im-and-ai-podcast/" target="_blank">Episode 9</a> of the Industrial Machinery and Artificial Intelligence (IM and AI) podcast sof Siemens Digital Industries Software, 2026.</p>
+                </div>
+            </div>
+        </div>
+    </div>	
     <!-- Siemens Blog Podcast: Human-AI, Mind, Machines and the Gradient Descent -->
     <div class="col-md-12 mb-3">
         <div class="row align-items-center">
