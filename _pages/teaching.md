@@ -9,9 +9,10 @@ nav_order: 3
 
 :construction: More to come soon :construction:
 
-# Short Courses
+<hr>
+### Short Courses
 
-### Real-Time Algorithms for Digital Twins (2026)
+#### Real-Time Algorithms for Digital Twins (2026)
 
 Short course on *Real-time Algorithms for Digital Twins* at the UKACM Autumn School 2026 [*Beyond Data-Driven Digital Twins: Integrating AI with Computational Mechanics*](https://www.ukacm-school.uk/) 
 
@@ -22,7 +23,8 @@ Short course on *Real-time Algorithms for Digital Twins* at the UKACM Autumn Sch
 [https://github.com/Dirk-Hartmann/real-time-digital-twins/](https://github.com/Dirk-Hartmann/real-time-digital-twins/)
 
 
-# Theses
+<hr>
+### Theses
 
 If you're interested in writing a thesis (bachelor's, master's, or doctoral) with me, please send an email describing your specific field of interest and a brief motivation for why you would like to pursue your thesis under my advisory. Kindly include some information about yourself, such as your study program, relevant previous experiences, and current academic grades.
 
