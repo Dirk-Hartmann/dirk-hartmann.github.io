@@ -106,6 +106,13 @@
   ],
   "awards": [
     {
+      "title": "2026 Edison Patent Award Winner - Category Information Technology",
+      "date": "2026-11-19",
+      "awarder": "Research & Development Council of New Jersey",
+      "url": "https://rdnj.org/2025patentawards/",
+      "summary": "The Edison Patent Awards honor the inventors and research institutions whose breakthroughs are advancing technology, improving lives, and strengthening New Jersey’s innovation economy."
+    },
+    {
       "title": "Siemens Inventors of the Year 2021 - Category Open Innovation",
       "date": "2021-12-01",
       "awarder": "Siemens AG",
@@ -167,7 +174,7 @@
       "organization": "Fraunhofer Institute for Algorithms and Scientific Computing (SCAI)",
       "position": "Board of Trustees, Fraunhofer SCAI",
       "url": "https://www.scai.fraunhofer.de/en/about-us/kuratorium.html",
-      "startDate": "2026-06-06",
+      "startDate": "2026-06-01",
       "endDate": ""
     }	
   ]  

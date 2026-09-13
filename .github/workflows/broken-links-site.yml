@@ -29,6 +29,10 @@ jobs:
               "giscus.repo": "${{ github.repository }}",
               "baseurl": ""
             }
+      - name: Setup Node.js 📦
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'      
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick

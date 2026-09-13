@@ -51,6 +51,10 @@ jobs:
           repository: ${{ env.REPOSITORY }}
           token: ${{ secrets.LIGHTHOUSE_BADGER_TOKEN }}
           ref: ${{ env.BRANCH }}
+      - name: Setup Node.js 📦
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
       - uses: actions/checkout@v4
         with:
           repository: "myactionway/lighthouse-badges"

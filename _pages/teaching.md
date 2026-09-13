@@ -7,7 +7,20 @@ nav: true
 nav_order: 3
 ---
 
-:construction: To come soon :construction:
+:construction: More to come soon :construction:
+
+# Short Courses
+
+## Real-Time Algorithms for Digital Twins (2026)
+
+Short course on **Real-time Algorithms for Digital Twins** at the UKACM Autumn School 2026 [**Beyond Data-Driven Digital Twins: Integrating AI with Computational Mechanics**](https://www.ukacm-school.uk/) 
+
+*Slides:*
+[01 - Introduction](/assets/pdf/RealTimeDigitalTwins_ShortCourse/01_Introduction.pdf) | [02 - Reduced Order Modelling](/assets/pdf/RealTimeDigitalTwins_ShortCourse/02_ReducedOrderModelling.pdf) | [03 - Regression-based Modelling](/assets/pdf/RealTimeDigitalTwins_ShortCourse/03_RegressionBasedModelling.pdf) | [04 - Autoregressive Modelling](/assets/pdf/RealTimeDigitalTwins_ShortCourse/04_AutoregressiveModelling.pdf) | [05 - Outlook](/assets/pdf/RealTimeDigitalTwins_ShortCourse/05_Outlook.pdf) | [06 - Closing](/assets/pdf/RealTimeDigitalTwins_ShortCourse/06_Closing.pdf)
+
+*Code and Examples:*
+[https://github.com/Dirk-Hartmann/real-time-digital-twins/](https://github.com/Dirk-Hartmann/real-time-digital-twins/)
+
 
 # Theses
 
