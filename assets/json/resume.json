@@ -135,6 +135,13 @@
     }
   ],
   "volunteer": [
+	{
+      "organization": "Interdisciplinary Center for Scientific Computing (IWR)",
+      "position": "Scientific Advisory Board",
+      "url": "https://www.iwr.uni-heidelberg.de/",
+      "startDate": "2027-01-01",
+      "endDate": ""
+    },
     {
       "organization": "Society for Industrial and Applied Mathematics (SIAM)",
       "position": "SIAM Industry Committee",
